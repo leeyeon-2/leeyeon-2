@@ -1,4 +1,6 @@
 ## Hi there 👋
+Hello~ Welcome to my profile!
+I'm yeonhui Lee.
 
 <!--
 **leeyeon-2/leeyeon-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
